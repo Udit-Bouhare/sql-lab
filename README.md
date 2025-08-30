@@ -19,8 +19,7 @@ Each project demonstrates **database design, queries, stored procedures, trigger
 📚 A real-world database for managing a bookstore.  
 - **Features**: Schema design, sample data, stored procedures, triggers, transactions, indexing, and views  
 - **Files**:  
-  - `schema.sql` → Database structure + sample data  
-  - `procedures.sql` → Stored procedures, triggers, functions  
+  - `schema.sql` → Database structure + sample data    
   - `queries.sql` → Example queries & views  
   - `README.md` → Project documentation  
 
