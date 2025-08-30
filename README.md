@@ -1,9 +1,9 @@
 # 🗄️ SQL Projects Portfolio
 
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)  
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?color=green)  
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name?color=orange)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white) 
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?color=green) 
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name?color=orange) 
+![License](https://img.shields.io/badge/License-MIT-yellow) 
 
 
 Welcome to my **SQL Projects Portfolio**! 🚀  
