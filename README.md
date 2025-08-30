@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repo-name?color=green" />
-  <img src="https://img.shields.io/github/repo-size/your-username/your-repo-name?color=orange" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Projects-1-blueviolet" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
